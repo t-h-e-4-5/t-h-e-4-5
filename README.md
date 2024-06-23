@@ -1,12 +1,12 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-<h1 align="center">Salut 👋, je suis Théophile DUM</h1>
-<h3 align="center">Etutiant en informatique systèmes & réseaux. Je travaille aussi en développement</h3>
+<h1 align="center">Salut 👋, je suis Théophile</h1>
+<h2 align="center">Administrateur Systèmes, Réseaux, Sécurité & VoIP</h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p> -->
 
 <!-- - 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)-->
 
-- 🌱 J'apprends actuellement le **DevOps, Microservice, ...**
+- 🌱 Actuellement en apprentisage du **DevOps & la Sécurité, ...**
 
 - 👨‍💻 Voici un exemple de projet en Flask [https://github.com/t-h-e-4-5/flask-sqlalchemy.git](https://github.com/t-h-e-4-5/flask-sqlalchemy.git)
 
